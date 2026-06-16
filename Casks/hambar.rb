@@ -7,7 +7,7 @@ cask "hambar" do
   desc "Home Assistant in your Mac menu bar"
   homepage "https://hambar.info"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "HAmbar.app"
 

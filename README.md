@@ -6,6 +6,7 @@ Homebrew tap for [HAmbar](https://hambar.info).
 
 ```bash
 brew tap hipszkij/hambar https://github.com/hipszkij/hambar-homebrew
+brew trust hipszkij/hambar
 brew install --cask hambar
 ```
 
