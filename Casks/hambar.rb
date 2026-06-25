@@ -1,6 +1,6 @@
 cask "hambar" do
-  version "1.3"
-  sha256 "dca9cbb7aa835dbe5c2bb58a37b750b3f38e59fcd32927c0fa996c4c3e478d4d"
+  version "1.4"
+  sha256 "7a3d1957334617c0b2b2bd428621cf7fdbbc0ea153c12e0c2f4a7078058ba9a6"
 
   url "https://github.com/hipszkij/hambar-app/releases/download/v#{version}/HAmbar-#{version}.zip"
   name "HAmbar"
